@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+            this.btn_ClickMe = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -37,17 +38,28 @@
             this.label1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label1.Font = new System.Drawing.Font("微軟正黑體", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label1.ForeColor = System.Drawing.Color.DimGray;
-            this.label1.Location = new System.Drawing.Point(254, 98);
+            this.label1.Location = new System.Drawing.Point(31, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(299, 61);
             this.label1.TabIndex = 0;
             this.label1.Text = "N12310001";
+            // 
+            // btn_ClickMe
+            // 
+            this.btn_ClickMe.Location = new System.Drawing.Point(31, 107);
+            this.btn_ClickMe.Name = "btn_ClickMe";
+            this.btn_ClickMe.Size = new System.Drawing.Size(149, 46);
+            this.btn_ClickMe.TabIndex = 1;
+            this.btn_ClickMe.Text = "按我一下";
+            this.btn_ClickMe.UseVisualStyleBackColor = true;
+            this.btn_ClickMe.Click += new System.EventHandler(this.btn_ClickMe_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_ClickMe);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -59,6 +71,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btn_ClickMe;
     }
 }
 
