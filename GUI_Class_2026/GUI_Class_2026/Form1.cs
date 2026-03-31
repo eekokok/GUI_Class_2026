@@ -26,5 +26,28 @@ namespace GUI_Class_2026
 
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_ChangeLabel_Click(object sender, EventArgs e)
+        {
+            lab_ChangeLabel.Text="按鈕被按過了";
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Counter_Click(object sender, EventArgs e)
+        {
+            String count = lab_Counter.Text;
+            int sum =int.Parse(count)+1;
+            lab_Counter.Text = sum.ToString();
+        }
     }
 }
