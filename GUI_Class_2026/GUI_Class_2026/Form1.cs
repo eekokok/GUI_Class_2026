@@ -49,5 +49,18 @@ namespace GUI_Class_2026
             int sum =int.Parse(count)+1;
             lab_Counter.Text = sum.ToString();
         }
+
+        private void btnBigger_Click(object sender, EventArgs e)
+        {
+            new Formbtnbigger().Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string str = textBox1.Text;
+            label2.Text = str;
+        }
+
+      
     }
 }

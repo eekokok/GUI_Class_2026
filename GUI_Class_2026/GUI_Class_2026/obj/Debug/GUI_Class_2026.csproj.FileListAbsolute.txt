@@ -8,3 +8,4 @@ C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GU
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.exe
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.pdb
+C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Formbtnbigger.resources
