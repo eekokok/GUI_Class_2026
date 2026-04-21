@@ -61,6 +61,9 @@ namespace GUI_Class_2026
             label2.Text = str;
         }
 
-      
+        private void btn_Calculator_Click(object sender, EventArgs e)
+        {
+            new FormCalculator().Show();
+        }
     }
 }
