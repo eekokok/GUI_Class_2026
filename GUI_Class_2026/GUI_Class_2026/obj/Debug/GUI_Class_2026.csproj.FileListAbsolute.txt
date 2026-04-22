@@ -10,3 +10,15 @@ C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GU
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.pdb
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Formbtnbigger.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCalculator.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\bin\Debug\GUI_Class_2026.exe.config
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\bin\Debug\GUI_Class_2026.exe
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\bin\Debug\GUI_Class_2026.pdb
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.csproj.AssemblyReference.cache
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Form1.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Formbtnbigger.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCalculator.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Properties.Resources.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.csproj.GenerateResource.cache
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.csproj.CoreCompileInputs.cache
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.exe
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.pdb

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\formcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\formcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\formcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\formcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|c:\\users\\xiey0\\onedrive\\\u9644\u4EF6\\desktop\\gui_class_2026\\gui_class_2026\\gui_class_2026\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\gui_class_2026\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA8A6BE2-C0C3-463A-9226-AA58D6EC9A39}|GUI_Class_2026\\GUI_Class_2026.csproj|solutionrelative:gui_class_2026\\formbtnbigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\Form1.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.cs",
+              "RelativeToolTip": "GUI_Class_2026\\Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAApwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\FormCalculator.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\FormCalculator.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\FormCalculator.cs",
+              "RelativeToolTip": "GUI_Class_2026\\FormCalculator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCalculator.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\FormCalculator.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\FormCalculator.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\FormCalculator.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUI_Class_2026\\FormCalculator.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.232Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI_Class_2026\\Form1.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formbtnbigger.cs",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Formbtnbigger.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\Formbtnbigger.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Formbtnbigger.cs",
+              "RelativeToolTip": "GUI_Class_2026\\Formbtnbigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formbtnbigger.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Formbtnbigger.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\Formbtnbigger.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Formbtnbigger.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUI_Class_2026\\Formbtnbigger.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.235Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI_Class_2026\\Form1.cs",
+              "ToolTip": "C:\\Users\\xiey0\\OneDrive\\\u9644\u4EF6\\Desktop\\GUI_Class_2026\\GUI_Class_2026\\GUI_Class_2026\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GUI_Class_2026\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:43:56.235Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
