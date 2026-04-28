@@ -22,3 +22,5 @@ C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2
 C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.csproj.CoreCompileInputs.cache
 C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.exe
 C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.pdb
+C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.MainForm.resources
+C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Form2.resources

@@ -11,7 +11,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace GUI_Class_2026
 {
-    public partial class FormCalculator : Form
+   public partial class FormCalculator : Form
     {
         public FormCalculator()
         {

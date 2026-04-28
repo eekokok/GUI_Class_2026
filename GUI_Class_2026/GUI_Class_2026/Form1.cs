@@ -63,7 +63,11 @@ namespace GUI_Class_2026
 
         private void btn_Calculator_Click(object sender, EventArgs e)
         {
-            new FormCalculator().Show();
+           new FormCalculator().Show()
+        }
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            new MainForm().Show();
         }
     }
 }
