@@ -19,7 +19,7 @@ namespace GUI_Class_2026
 
         private void btn__Change_Click(object sender, EventArgs e)
         {
-            new MForm().Show();
+        
         }
     }
 }

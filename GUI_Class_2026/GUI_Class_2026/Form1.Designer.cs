@@ -29,11 +29,12 @@
         private void InitializeComponent()
         {
             this.btn_Calculator = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_Calculator
             // 
-            this.btn_Calculator.Location = new System.Drawing.Point(256, 124);
+            this.btn_Calculator.Location = new System.Drawing.Point(173, 171);
             this.btn_Calculator.Name = "btn_Calculator";
             this.btn_Calculator.Size = new System.Drawing.Size(140, 67);
             this.btn_Calculator.TabIndex = 0;
@@ -41,9 +42,20 @@
             this.btn_Calculator.UseVisualStyleBackColor = true;
             this.btn_Calculator.Click += new System.EventHandler(this.btn_Calculator_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(414, 147);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(140, 67);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Timer";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(852, 625);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.btn_Calculator);
             this.Name = "Form1";
             this.ResumeLayout(false);
@@ -73,6 +85,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btn_Calculator;
+        private System.Windows.Forms.Button button2;
     }
 }
 
