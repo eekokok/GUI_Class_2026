@@ -26,3 +26,8 @@ C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GU
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Form2.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Properties.FormTimer.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCheckBox.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Form2.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCheckBox.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormLayout.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.MainForm.resources
+C:\Users\xiey0\OneDrive\附件\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.Properties.FormTimer.resources
