@@ -82,6 +82,12 @@
     <Compile Include="FormLayout.Designer.cs">
       <DependentUpon>FormLayout.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormOlderMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOlderMenu.Designer.cs">
+      <DependentUpon>FormOlderMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormLayout.resx">
       <DependentUpon>FormLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOlderMenu.resx">
+      <DependentUpon>FormOlderMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
